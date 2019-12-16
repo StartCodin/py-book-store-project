@@ -1,7 +1,7 @@
-from reader import *
-from store import *
-from staff import *
-from book import *
+from src.reader import *
+from src.store import *
+from src.staff import *
+from src.book import *
 
 store = Store('Readers\' Paradise')
 

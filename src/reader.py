@@ -1,4 +1,4 @@
-from person import *
+from src.person import *
 import re
 
 

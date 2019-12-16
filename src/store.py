@@ -1,5 +1,5 @@
-from constants import *
-from receipt import Receipt
+from src.constants import *
+from src.receipt import Receipt
 from datetime import date
 import json
 
