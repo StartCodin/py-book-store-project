@@ -14,6 +14,7 @@ logger = logging.getLogger()
 # inside the tests, write log messages
 # at the project level create the pytest.ini file
 # set log_cli and other properties
+# more information: https://docs.pytest.org/en/latest/logging.html#live-logs
 
 
 @pytest.fixture
