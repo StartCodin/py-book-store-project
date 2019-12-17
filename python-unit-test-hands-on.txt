@@ -1,0 +1,6 @@
+Hands on exercise:
+
+1. Create test module for store
+2. Use logging and configure the pytest.ini
+3. Use logging in the fixtures
+4. When is the fixture create?
